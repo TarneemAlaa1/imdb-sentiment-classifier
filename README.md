@@ -13,22 +13,28 @@ It includes:
 --- 
 
 ## Try the App from Here
-Test the models on your own reviews and compare results in real time!
-**[Light Mode App]**(https://tarneemalaa-imdb-sentiment-classifier.hf.space/?__theme=light)
-**[Dark Mode App]**(https://tarneemalaa-imdb-sentiment-classifier.hf.space/?__theme=dark)
+Test the models on your own reviews and compare results in real time
+
+- **[Light Mode App]**(https://tarneemalaa-imdb-sentiment-classifier.hf.space/?__theme=light)
+- **[Dark Mode App]**(https://tarneemalaa-imdb-sentiment-classifier.hf.space/?__theme=dark)
 
 You can enter the movie review here along with choosing the model and enjoy! You can also compare performances of different models on the same review.
+
 ---
+
 ## Blog Post 
 I wrote a very detailed blog post on hashnode for this project that you can check out.
-**[Building an End-to-End Sentiment Classifier – Classical ML vs. BERT on IMDb Reviews]**(https://tarneem.hashnode.dev/building-an-end-to-end-sentiment-classifier-classical-ml-vs-bert-on-imdb-review)
+
+- **[Building an End-to-End Sentiment Classifier – Classical ML vs. BERT on IMDb Reviews]**(https://tarneem.hashnode.dev/building-an-end-to-end-sentiment-classifier-classical-ml-vs-bert-on-imdb-review)
+
+
 ---
 
 ## Models Results
 
 | Model                   | Train Accuracy | Val Accuracy | Test Accuracy | Training Time |
 |------------------------|----------------|---------------|----------------|----------------|
-| **BERT**               | 98.33%         | 92.61%        | 93.08%         | 4818.46s       |
+| **BERT**               | 98.33%         | 92.61%        | **93.08%**        | 4818.46s       |
 | Logistic Regression    | 92.40%         | 89.04%        | 89.83%         | 0.58s          |
 | SVM                    | 96.37%         | 88.32%        | 89.11%         | 0.85s          |
 | Naive Bayes            | 88.09%         | 86.23%        | 87.33%         | 0.02s          |
