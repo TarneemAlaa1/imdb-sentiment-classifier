@@ -16,7 +16,11 @@ It includes:
 Test the models on your own reviews and compare results in real time
 
 - [**Light Mode App**](https://tarneemalaa-imdb-sentiment-classifier.hf.space/?__theme=light)
+    ![LightMode](./lightVersion.png)
+
+
 - [**Dark Mode App**](https://tarneemalaa-imdb-sentiment-classifier.hf.space/?__theme=dark)
+    ![DarkMode](./darkVersion.png)
 
 You can enter the movie review here along with choosing the model and enjoy! You can also compare performances of different models on the same review.
 
