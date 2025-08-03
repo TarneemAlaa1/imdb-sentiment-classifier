@@ -15,8 +15,8 @@ It includes:
 ## Try the App from Here
 Test the models on your own reviews and compare results in real time
 
-- **[Light Mode App]**(https://tarneemalaa-imdb-sentiment-classifier.hf.space/?__theme=light)
-- **[Dark Mode App]**(https://tarneemalaa-imdb-sentiment-classifier.hf.space/?__theme=dark)
+- [**Light Mode App**](https://tarneemalaa-imdb-sentiment-classifier.hf.space/?__theme=light)
+- [**Dark Mode App**](https://tarneemalaa-imdb-sentiment-classifier.hf.space/?__theme=dark)
 
 You can enter the movie review here along with choosing the model and enjoy! You can also compare performances of different models on the same review.
 
@@ -25,7 +25,7 @@ You can enter the movie review here along with choosing the model and enjoy! You
 ## Blog Post 
 I wrote a very detailed blog post on hashnode for this project that you can check out.
 
-- **[Building an End-to-End Sentiment Classifier – Classical ML vs. BERT on IMDb Reviews]**(https://tarneem.hashnode.dev/building-an-end-to-end-sentiment-classifier-classical-ml-vs-bert-on-imdb-review)
+- [**Building an End-to-End Sentiment Classifier – Classical ML vs. BERT on IMDb Reviews**](https://tarneem.hashnode.dev/building-an-end-to-end-sentiment-classifier-classical-ml-vs-bert-on-imdb-review)
 
 
 ---
@@ -58,16 +58,22 @@ tokenizer = BertTokenizer.from_pretrained("tarneemalaa/bert_imdb_model")
 ---
 
 ## Installation and Running
+
 git clone https://github.com/TarneemAlaa1/imdb-sentiment-classifier
+
 cd imdb-sentiment-classifier
+
 pip install -r requirements.txt
+
 cd app
+
 python app.py
 
 ---
 
 ## Contact Me
-[LinkedIn](https://www.linkedin.com/in/tarneem-alaa-abdelreheem/)
-[Github](https://github.com/TarneemAlaa1)
-[HuggingFace](https://huggingface.co/tarneemalaa)
-[Hashnode](https://tarneem.hashnode.dev/)
+
+- [LinkedIn](https://www.linkedin.com/in/tarneem-alaa-abdelreheem/)
+- [Github](https://github.com/TarneemAlaa1)
+- [HuggingFace](https://huggingface.co/tarneemalaa)
+- [Hashnode](https://tarneem.hashnode.dev/)
