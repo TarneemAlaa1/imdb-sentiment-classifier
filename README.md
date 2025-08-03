@@ -16,10 +16,12 @@ It includes:
 Test the models on your own reviews and compare results in real time
 
 - [**Light Mode App**](https://tarneemalaa-imdb-sentiment-classifier.hf.space/?__theme=light)
+
     ![LightMode](./lightVersion.png)
 
 
 - [**Dark Mode App**](https://tarneemalaa-imdb-sentiment-classifier.hf.space/?__theme=dark)
+
     ![DarkMode](./darkVersion.png)
 
 You can enter the movie review here along with choosing the model and enjoy! You can also compare performances of different models on the same review.
@@ -30,6 +32,9 @@ You can enter the movie review here along with choosing the model and enjoy! You
 I wrote a very detailed blog post on hashnode for this project that you can check out.
 
 - [**Building an End-to-End Sentiment Classifier – Classical ML vs. BERT on IMDb Reviews**](https://tarneem.hashnode.dev/building-an-end-to-end-sentiment-classifier-classical-ml-vs-bert-on-imdb-review)
+
+
+![Blog](./blog.png)
 
 
 ---
