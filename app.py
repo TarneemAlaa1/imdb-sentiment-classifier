@@ -5,13 +5,13 @@ import joblib
 import numpy as np
 
 # Load TF-IDF Vectorizer
-tfidf_vectorizer = joblib.load("../models/tfidf_vectorizer.pkl")
+tfidf_vectorizer = joblib.load("models/tfidf_vectorizer.pkl")
 
 # Load the classical ML models
-lr_model = joblib.load("../models/logistic_regression_tfidf.pkl")
-svm_model = joblib.load("../models/svm_tfidf_model.pkl")
-nb_model = joblib.load("../models/nb_tfidf_model.pkl")
-rf_model = joblib.load("../models/rf_tfidf_model.pkl")
+lr_model = joblib.load("models/logistic_regression_tfidf.pkl")
+svm_model = joblib.load("models/svm_tfidf_model.pkl")
+nb_model = joblib.load("models/nb_tfidf_model.pkl")
+rf_model = joblib.load("models/rf_tfidf_model.pkl")
 
 # Load bert fine-tuned mmodel and tokenizer
 model_name = "tarneemalaa/bert_imdb_model"
